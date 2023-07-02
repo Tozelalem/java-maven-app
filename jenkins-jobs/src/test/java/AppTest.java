@@ -1,3 +1,4 @@
+// Java simple test script
 import com.example.Application;
 import org.junit.Test;
 import static org.junit.Assert.*;
